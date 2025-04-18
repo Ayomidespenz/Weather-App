@@ -17,6 +17,7 @@ This is a basic weather application that allows users to search for a city and v
 * JavaScript
 * OpenWeatherMap API ([https://openweathermap.org/api](https://openweathermap.org/api))
 
+
 ## AUTHOR :
 
 Quadri Yusuff
